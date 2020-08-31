@@ -1,0 +1,10 @@
+pylint
+autopep8
+Flask
+Flask-Cors
+Flask-Migrate
+Flask-SQLAlchemy
+SQLAlchemy
+psycopg2
+schema
+python-jose
